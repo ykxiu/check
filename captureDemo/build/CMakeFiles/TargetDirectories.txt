@@ -1,0 +1,3 @@
+/home/kai/Desktop/proj/captureDemo/build/CMakeFiles/main.dir
+/home/kai/Desktop/proj/captureDemo/build/CMakeFiles/edit_cache.dir
+/home/kai/Desktop/proj/captureDemo/build/CMakeFiles/rebuild_cache.dir

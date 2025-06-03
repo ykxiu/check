@@ -1,0 +1,3 @@
+/home/kai/Desktop/proj/validateDemo/build/CMakeFiles/main.dir
+/home/kai/Desktop/proj/validateDemo/build/CMakeFiles/edit_cache.dir
+/home/kai/Desktop/proj/validateDemo/build/CMakeFiles/rebuild_cache.dir

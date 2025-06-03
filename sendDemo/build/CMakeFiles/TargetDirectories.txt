@@ -1,0 +1,3 @@
+/home/kai/Desktop/proj/sendDemo/build/CMakeFiles/main.dir
+/home/kai/Desktop/proj/sendDemo/build/CMakeFiles/edit_cache.dir
+/home/kai/Desktop/proj/sendDemo/build/CMakeFiles/rebuild_cache.dir
